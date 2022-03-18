@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to KGS Consulting banglore !!! </h1>
+<h1> Hello, Welcome to KGS Consulting !!! </h1>
 
